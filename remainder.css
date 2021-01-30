@@ -1,0 +1,11 @@
+body{
+    background-image: url("countdown-timer.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.warn {
+    display: none;
+    background-color: #be3a3a;
+    color: #fff;
+  }
